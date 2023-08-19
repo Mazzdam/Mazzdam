@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on academic projects and any other projects i get added to.
 - 📫 How to reach me personal email milaninnamdi@gmail.com
 - Academic email 40100499@nwu.ac.za
+- Langugaes: C# and Python.
 
 <!---
 Mazzdam/Mazzdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
